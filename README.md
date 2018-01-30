@@ -7,6 +7,7 @@ Stage by stage optimization of a memory bound problem.
 
 
 //////////////////////////////////////////////////////
+
 version 8 vs version 1:
 
 Speedup for GTX860M - 12.85x @ BW=58.46GB/s
